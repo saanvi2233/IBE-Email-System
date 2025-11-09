@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+pkg_data.json
+*.pyc

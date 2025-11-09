@@ -1,0 +1,8 @@
+flask>=2.0
+cryptography>=40.0
+requests>=2.0
+pytest>=7.0
+aiosmtpd>=1.4.0
+
+# Optional: charm-crypto for a real IBE implementation (not required for demo)
+# charm-crypto
