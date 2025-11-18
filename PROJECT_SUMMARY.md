@@ -158,7 +158,7 @@ IBE is a revolutionary cryptographic system where a user's **email address** (or
 **Test Results:**
 ```bash
 pytest tests/ -v
-# 4/4 tests PASSED ✅
+# 4/4 tests PASSED 
 ```
 
 ---
@@ -168,7 +168,7 @@ pytest tests/ -v
 **Created Comprehensive Docs:**
 
 1. **`README.md`** - Complete setup and usage guide
-2. **`SECURITY.md`** - Security analysis covering:
+2. **`SECURITY.md`** - Security analysis covering:+
    - Key escrow (PKG trust model)
    - Authentication vulnerabilities
    - Revocation strategies
